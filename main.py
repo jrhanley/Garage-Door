@@ -13,11 +13,11 @@ DEVICE_SET_ENDPOINT = "api/v4/DeviceAttribute/PutDeviceAttribute"
 
 USERNAME = "your@username.com"
 PASSWORD = "YourPassword"
-ALEXA_ASK_ID = "amzn1.ask.skill.XXXXXXXXXXXXXXXXXXXX"
+ALEXA_ASK_ID = "amzn1.ask.skill.3c4ce7dc-057b-4efe-9aea-f4affb8c148f"
 
 
-myq_userid                  = ""
-myq_security_token          = ""
+myq_userid                  = "jim@hanleyco.com"
+myq_security_token          = "Postr1o$"
 myq_cached_login_response   = ""
 myq_device_id               = ""
 
